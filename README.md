@@ -13,7 +13,7 @@ Desenvolvendo um site (ex: linktree) através do curso Discover da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="devlinks figma" src="/Projeto_Site_Links/fundo.png" width="100%">
+  <img alt="devlinks figma" src="https://github.com/Marcos-Aquin0/Projeto_Site_Links/blob/main/fundo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
