@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desenvolver um site parecido com linktree, apresentando links úteis de portifólio e modo claro e escuro, adaptando para diferentes dispositivos.
 
-Acesse o projeto através [DESSE LINK](https://Marcos-Aquin0.github.io/devlinks/)
+Acesse o projeto através [DESSE LINK](https://marcos-aquin0.github.io/Projeto_Site_Links/)
 
 ## 🔖 Layout
 
